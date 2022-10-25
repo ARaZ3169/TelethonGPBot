@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/TgxBots"><img src="https://telegra.ph/file/6e50a22dcb7bf6a062b1c.jpg" width="2500"></a></p> 
+<p align="center"><a href="https://t.me/ReaLAraz"><img src="https://telegra.ph/file/6e50a22dcb7bf6a062b1c.jpg" width="2500"></a></p> 
 <h1 align="center"><b>Group-Manager Bot</b></h1>
 <h4 align="center">A Group-Manager Bot made with telethon!</h4>
 
@@ -22,7 +22,7 @@ WELCOME_TEXT - The text msg which you want in your welcome msg.
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Tgxsupportchat)
 
 # Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TgxBotz/TelethonGPBot/blob/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARaZ3169/TelethonGPBot/blob/main)
 
 # Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
